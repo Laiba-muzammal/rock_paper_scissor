@@ -27,22 +27,25 @@ A fun terminal-based Rock Paper Scissors game built using C++!
 
 ## 🔧 How to Run
 
-1. Clone the repo:
+### 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/rock-paper-scissors-cpp.git
    cd rock-paper-scissors-cpp
-Compile the code:
+   ```
+   
+### 2. Compile the code:
 
-bash
-Copy
-Edit
+```
 g++ -o game main.cpp
-Run the game:
+```
 
-bash
-Copy
-Edit
+### 3. Run the game:
+```
 ./game
+```
+
+---
+
 📌 Example
 rust
 Copy
