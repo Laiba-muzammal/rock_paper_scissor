@@ -1,4 +1,4 @@
-# ✊✋✌️ Rock Paper Scissors Game (C++)
+# Rock Paper Scissors Game (C++)
 
 A fun terminal-based Rock Paper Scissors game built using C++
 
