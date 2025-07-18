@@ -1,6 +1,6 @@
 # ✊✋✌️ Rock Paper Scissors Game (C++)
 
-A fun terminal-based Rock Paper Scissors game built using C++!
+A fun terminal-based Rock Paper Scissors game built using C++
 
 ---
 
@@ -46,30 +46,27 @@ g++ -o game main.cpp
 
 ---
 
-📌 Example
-rust
-Copy
-Edit
+## 📌 Example
+```
 Enter your choice (R for Rock, P for Paper, S for Scissors): R  
 Computer chose: S  
 🎉 You win!  
 Your score: 1  
 Computer's score: 0  
 Do you want to play again? (Y/N): Y
-📁 File Structure
-bash
-Copy
-Edit
+```
+
+---
+
+## 📁 File Structure
+```
 rock-paper-scissors-cpp/
 ├── main.cpp       # Game logic and entry point
 ├── .gitignore     # Optional
 └── README.md      # Documentation
-🌱 Future Improvements
-Add round limit (e.g., best of 5)
+```
 
-Add GUI using Qt or SFML
+---
 
-Store high scores in a file
-
-📜 License
+## 📜 License
 MIT License. Use and modify freely.
